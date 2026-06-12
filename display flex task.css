@@ -1,0 +1,185 @@
+*{
+	margin:0%;
+	padding:0%;
+}
+nav{
+	width:100%;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	height:60px;
+	background-color:white;
+	position:fixed;
+	top:0;
+}
+.LimeRoad{
+	font-size:25px;
+	font-weight:bold;
+}
+.div{
+	width:46%;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin-left:1%;
+	font-weight:bold;
+	background-color:white;
+}
+.white{
+	background-color:white;
+}
+.Scrapbook{
+	width:20%;
+	display:flex;
+	justify-content:space-between;
+	margin-left:20%;
+	font-size:11px;
+	background-color:white;
+}
+.size{
+	font-size:20px;
+}
+header{
+	width:66.5%;
+	height:156px;
+	margin-left:15.5%;
+	margin-top:4.3%;
+}
+.girls{
+	justify-content:space-evenly;
+	display:flex;
+	width:30%;
+	font-size:13px;
+	margin-left:2.3%;
+	margin-top:5px;
+	
+}
+.width{
+	width:100%;
+	margin-top:1.5%;
+	height:125px;
+	display:flex;
+}
+.img{
+	width:70px;
+	height:70px;
+	border:2.3px solid #99CC33;
+	border-radius:50%;
+}
+.shahed{
+	text-align:center;
+	width:8%;
+	font-size:8px;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+.women{
+	text-decoration:underline;
+	text-decoration-color:green;
+}
+.line{
+	border-right:1px solid #99CC33;
+	height:43px;
+	width:2px;
+	margin:2.9% 0% 0% 0.7%;
+}
+.kurta{
+	height:54.3px;
+	width:54.3px;
+	border-radius:50%;
+}
+.kurtas{
+	font-size:9px;
+	letter-spacing:0.6px;
+	text-align:center;
+	margin-top:6px;
+}
+.kurtass{
+	margin:18px 0px 0px 15px;
+}
+.right{
+	margin-left:2.3%;
+}
+.headend{
+	height:100px;
+	width:100px;
+}
+main{
+	width:100%;
+}
+.omg{
+	height:180px;
+	width:31.2%;
+}
+.flex{
+	display:flex;
+	justify-content:center;
+}
+.by{
+	display:flex;
+	width:84.1%;
+	margin:0.6% 0% 0% 8.4%;
+}
+.bisht{
+	height:410px;
+	width:25%;
+	background-color:white;
+	margin-right:1.5px;
+	border-radius:5px;
+}
+.byimg{
+	width:100%;
+	display:flex;
+	background-color:white;
+	height:45px;
+}
+.backg{
+	background-color:white;
+}
+.bimg{
+	height:28px;
+	width:28px;
+	border-radius:50%;
+	margin:6px 0px 0px 12px;
+}
+.vai{
+	margin-left:5px;
+}
+.bys{
+	color:#888888;
+}
+.fle{
+	margin:12px 0px 0px 6px;
+	width:100%;
+	display:flex;
+	background-color:white;
+}
+.redimg{
+	height:330px;
+	width:314px;
+	margin-left:3px;
+}
+.store{
+	width:100%;
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+.dil{
+	font-size:24px;
+	color:red
+}
+.fonts{
+	font-size:16.4px;
+	margin-left:8.5px;
+}
+.yellow{
+	display:flex;
+	justify-content:space-between;
+	width:63px;
+	margin-right:12px;
+}
+.sizes{
+	font-size:20px;
+	color:black;
+}
